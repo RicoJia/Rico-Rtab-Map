@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libhello_plugin.so -o libhello_plugin.so CMakeFiles/hello_plugin.dir/script/hello.cpp.o 
